@@ -1,6 +1,6 @@
 <?php 
 session_start();
-$indexPHP = 'http://localhost/yugioh';
+$indexPHP = '/pages/painel/index.php';
 $indexAPI = 'http://localhost:3000';
 
 ?>

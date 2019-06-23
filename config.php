@@ -1,6 +1,6 @@
 <?php 
 session_start();
-$indexPHP = '/pages/painel/index.php';
+$indexPHP = 'https://ygodeck.herokuapp.com';
 $indexAPI = 'http://localhost:3000';
 
 ?>

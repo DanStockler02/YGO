@@ -1,3 +1,3 @@
 <?php include('./config.php');
-header($indexPHP);
+header('Location: '.$indexPHP.'/pages/painel/index.php');
 ?>
